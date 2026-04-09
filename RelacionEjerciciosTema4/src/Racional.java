@@ -1,6 +1,8 @@
 public class Racional {
     int numerador;
     int denominador;
+    int cambio5=1;
+
 
    
     public Racional(int n, int d) {
